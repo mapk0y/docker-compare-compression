@@ -1,4 +1,4 @@
-[gzip, zstd, brotli](https://gist.github.com/ymmt2005/89f27b040796248e8133d1f076ab9536)を真似して [facebook/zstd](https://github.com/facebook/zstd) と [google/brotli](https://github.com/google/brotli) を比較
+[gzip, zstd, brotliの比較記事](https://gist.github.com/ymmt2005/89f27b040796248e8133d1f076ab9536)を真似して [facebook/zstd](https://github.com/facebook/zstd) と [google/brotli](https://github.com/google/brotli) を比較
 
 
 ## 使い方
